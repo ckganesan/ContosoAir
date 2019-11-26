@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ckganesan/ConDevOps/_apis/build/status/ckganesan.ContosoAir?branchName=master)](https://dev.azure.com/ckganesan/ConDevOps/_build/latest?definitionId=8&branchName=master)
 
 
 # Microsoft.Github CI Demo
